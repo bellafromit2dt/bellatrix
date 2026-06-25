@@ -18,6 +18,6 @@ I write locally in [Obsidian](https://obsidian.md), auto-sync to this repo as I 
 Not everything is finished. That's by design.
 
 ## License
-© 2026 Bella. Written content licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
+© 2026 Bella. Written content licensed under [![CC BY-NC 4.0](https://img.shields.io/badge/License-CC%20BY--NC%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc/4.0/)
 
 Code snippets and scripts licensed under [MIT](https://opensource.org/licenses/MIT).
