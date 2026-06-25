@@ -1,5 +1,5 @@
 # Bellatrix ✦
-*Latin for "female warrior." A star in Orion. My knowledge matrix.*
+*Latin for "female warrior." A star in Orion. My knowledge matrix.* Nothing to do with Bellatrix Lestrange 🌚 promise
 
 <img src="https://earthsky.org/upl/2011/12/11Dec01_4302.jpg" alt="Bellatrix" width="250"/>  <sub>Star image credit: https://earthsky.org/</sub>
 
