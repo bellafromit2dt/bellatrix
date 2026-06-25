@@ -1,3 +1,5 @@
-# TIL - Today I Learned
+# TIL — Today I Learned
 
-This folder is keeping track of my learning highlights
+A running log of things that caught my attention — concepts, patterns, tools, and ideas worth remembering.
+
+Small notes. Sharp insights. No fluff.
