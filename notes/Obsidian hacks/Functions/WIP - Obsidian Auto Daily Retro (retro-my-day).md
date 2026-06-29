@@ -1,11 +1,10 @@
-> [!info] The goal of this document is to help you build an automated workflow in your `Obsidian` vault to automatically retrospect your day against your pre-defined personal goals.
+> [!info] **The goal of this document is to help you build an automated workflow in your `Obsidian` vault to automatically retrospect your day against your pre-defined personal goals.**
 
 ## Context
 Many people (like me) maintain daily planners—structured files that track activities in time-blocks, accomplishments across areas like health, wealth, life, work, personal projects, etc. 
 
 Separately, they might have personal manifesto or goals documents with their values, long-term goals, strategy, priorities written for AI to gain background knowledge about them for personalised responses.
 
----
 ## Problem
 These two systems exist in isolation. At day's end, reviewing your daily planner tells you _what you did_, but doesn't tell you _whether you moved toward your stated goals and values_. 
 
@@ -21,7 +20,7 @@ We need a systematic way to synthesize those daily logs _against_ your persona
 - Patterns you're missing
 - how today's actions compound toward your 3-year/5-year vision.
 - Clear next steps
----
+
 ## Solution
 `/retro-my-day` is an automated **Daily Synthesizer** that:
 1. Reads your goals, values etc from your `personal context file`.
@@ -30,7 +29,7 @@ We need a systematic way to synthesize those daily logs _against_ your persona
 4. Flags misalignments and opportunities
 5. Provides encouraging, actionable next-step recommendations
 6. Saves retro file with a timestamped name `[Date]-retro.md`
----
+
 ## Steps
 ### Preparation
 - Install [[Obsidian + Claudian Plugin]]
@@ -56,7 +55,8 @@ We need a systematic way to synthesize those daily logs _against_ your persona
 - Go to Cron settings
 - Create a new cron job to trigger /retro-my-day command on a daily basis
 - Screenshot
+
 ## Conclusion
-Now you have a cron job that triggers daily to automatically retro your daily planner and give you a insightful summary of your day,  
+Now you have a cron job that can trigger daily to automatically retro your daily planner and give you a insightful summary of your day.
 
 
