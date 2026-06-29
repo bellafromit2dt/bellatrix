@@ -1,3 +1,5 @@
+#obsidian  #howtos 
+# Obsidian Auto Daily Retro (retro-my-day)
 > **The goal of this document is to help you build an automated workflow in your `Obsidian` vault to automatically retrospect your day with your daily notes against your pre-defined personal goals.** 
 > 
 > **Let's hold ourselves accountable for our future.**
