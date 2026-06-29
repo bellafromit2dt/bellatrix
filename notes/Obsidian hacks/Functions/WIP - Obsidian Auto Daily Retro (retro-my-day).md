@@ -3,7 +3,7 @@
 > **Let's hold ourselves accountable for our future.**
 
 ## Context
-Many people (like me) maintain daily planners—structured files that track activities in time-blocks, accomplishments across areas like health, wealth, life, work, personal projects, etc. 
+Many people (maybe, like me for instance) maintain daily planners—structured files that track activities in time-blocks, accomplishments across areas like health, wealth, life, work, personal projects, etc. 
 
 Separately, they might have personal manifesto or goals documents with their values, long-term goals, strategy, priorities written for AI to gain background knowledge about them for personalised responses.
 
@@ -49,7 +49,7 @@ We need a systematic way to synthesize those daily logs _against_ your persona
 ### Execution
 #### Create `/retro-my-day` Claudian Command
 - Go to Claudian settings
-- Create a Claudian command that retros the day: /retro-my-day
+- Create a new `Claudian` command that retros the day: `/retro-my-day`
 - Configure the command with personalised prompt: 
 	- input and output file folder locations, file format, content, etc
 	- Example:
@@ -58,7 +58,11 @@ We need a systematic way to synthesize those daily logs _against_ your persona
 #### Create a Daily Cron Job for `/retro-my-day` Command
 - Go to Cron settings
 - Create a new cron job to trigger /retro-my-day command on a daily basis
-- Screenshot
+- Example:
+#### Run `/retro-my-day` Command in Claudian
+- In the Claudian window, execute this command and it will auto-generate your retro file in your designated folder
+- Review your generated daily retro. 
+- If it's not quite what you wanted, provide feedback to Claudian to improve the content, structure, or format — in the end, don't forget to tell Claudian to update the `/retro-my-day` skill based on your new feedback, so the same instructions will be applied for your future retros.
 
 ## Summary
 Now you have a cron job that can trigger daily to automatically retro your daily planner and give you a insightful summary of your day.
