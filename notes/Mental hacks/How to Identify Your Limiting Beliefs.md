@@ -1,3 +1,4 @@
+# How to Identify Your Limiting Beliefs
 ## 1. Structured Excavation
 *A limiting belief always hides behind a strong feeling. Work backwards from emotion to belief.*
 ### On capability
