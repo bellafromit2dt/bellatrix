@@ -1,0 +1,5 @@
+- Install [[Obsidian + Claudian Plugin]]
+- Create a Claude command that retros the day
+	- Personalise your prompt: input and output file folder locations, file format, content, 
+- Install [[Obsidian + Cron Plugin]]
+- 
