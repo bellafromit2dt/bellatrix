@@ -1,7 +1,19 @@
 ## Context
-
+Many people (like me) maintain daily planners—structured files that track activities in time-blocks, accomplishments across areas like health, wealth, life, work, personal projects, etc. 
+Separately, they might have personal manifesto or goals documents with their values, long-term goals, strategy, priorities written for AI to gain background knowledge about them for personalised responses.
 ## Problem
-Manual daily retrospectives are time-consuming, often shallow, and miss the deeper patterns and meta-insights. Without systematic synthesis against your stated goals and strategy, you can't easily spot misalignments, recurring behavioral patterns, or how today's actions compound toward your 3-year/5-year vision.
+These two systems exist in isolation. At day's end, reviewing your daily planner tells you _what you did_, but doesn't tell you _whether what you did moved you toward your stated goals and values_. 
+Besides, manual daily retrospectives are time-consuming, often shallow, and miss the deeper patterns and meta-insights like 
+- Whether today's activities align with your long-term strategy
+- Recurring patterns (productive or limiting) that compound over time
+- Opportunities or misalignments you're blind to
+- How today's choices connect to your larger vision
+We need a systematic way to synthesize your daily logs _against_ your personal goals and values, generating insights that show:
+- What's working (progress toward goals)
+- What's not (activities working against your priorities)
+- Patterns you're missing
+- how today's actions compound toward your 3-year/5-year vision.
+- Clear next steps
 ## Solution
 `/retro-my-day` is an automated **Daily Synthesizer** that:
 1. Reads your goals, values, and strategy from your `personal context file`.
