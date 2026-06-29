@@ -1,4 +1,6 @@
-> [!info] **The goal of this document is to help you build an automated workflow in your `Obsidian` vault to automatically retrospect your day against your pre-defined personal goals.**
+> **The goal of this document is to help you build an automated workflow in your `Obsidian` vault to automatically retrospect your day with your daily notes against your pre-defined personal goals.** 
+> 
+> **Let's hold ourselves accountable for our future.**
 
 ## Context
 Many people (like me) maintain daily planners—structured files that track activities in time-blocks, accomplishments across areas like health, wealth, life, work, personal projects, etc. 
@@ -35,15 +37,17 @@ We need a systematic way to synthesize those daily logs _against_ your persona
 - Install [[Obsidian + Claudian Plugin]]
 - Install [[Obsidian + Cron Plugin]]
 - Have your `personal context file ready`
+	- Have a `me.md` file with your goals, values, strategy, etc. listed
 	- Example: 
 	```
 	```
 - Have your `timelined daily note file` ready
+	- Keep your daily notes `[date].md` files in a folder to track the timelined activities --- see [[WIP - Obsidian Auto Daily Planner]]
 	- Example:
 	```
 	```  
 ### Execution
-#### Create /retro-my-day Claudian Command
+#### Create `/retro-my-day` Claudian Command
 - Go to Claudian settings
 - Create a Claudian command that retros the day: /retro-my-day
 - Configure the command with personalised prompt: 
@@ -51,12 +55,12 @@ We need a systematic way to synthesize those daily logs _against_ your persona
 	- Example:
 ```
 ```
-#### Create a Daily Cron Job for /retro-my-day Command
+#### Create a Daily Cron Job for `/retro-my-day` Command
 - Go to Cron settings
 - Create a new cron job to trigger /retro-my-day command on a daily basis
 - Screenshot
 
-## Conclusion
+## Summary
 Now you have a cron job that can trigger daily to automatically retro your daily planner and give you a insightful summary of your day.
 
 
