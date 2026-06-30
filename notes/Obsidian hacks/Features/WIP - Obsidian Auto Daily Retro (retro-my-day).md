@@ -1,8 +1,11 @@
 #obsidian  #howtos 
+**Prerequisites:** 
+- [[Obsidian + Claudian Plugin]]
+- [[Obsidian + Cron Plugin]]
 # Obsidian Auto Daily Retro (retro-my-day)
 > **The goal of this document is to help you build an automated workflow in your `Obsidian` vault to automatically retrospect your day with your daily notes against your pre-defined personal goals.** 
 > 
-> **Let's hold ourselves accountable for our future.**
+> >>>  **Let's hold ourselves accountable for our future.**
 
 ## Context
 Many people (maybe, like me for instance) maintain daily planners—structured files that track activities in time-blocks, accomplishments, miss-outs, reflections across areas like health, wealth, life, work, personal projects, etc. 
