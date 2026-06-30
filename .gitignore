@@ -1,5 +1,17 @@
+.claude/
+.claudian/
+.git/
 .obsidian/
-.trash/
-templates/
-drafts/
+.templates/
 
+# System files
+.DS_Store
+Thumbs.db
+
+# Temp files
+*.tmp
+*.swp
+.env
+
+# Node (if applicable)
+node_modules/

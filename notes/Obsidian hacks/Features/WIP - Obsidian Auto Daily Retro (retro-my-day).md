@@ -1,11 +1,11 @@
 #obsidian  #howtos 
-**Prerequisites:** 
-- [[Obsidian + Claudian Plugin]]
-- [[Obsidian + Cron Plugin]]
+#### Prerequisites: 
+- [Obsidian + Claudian Plugin](../Plugins/Obsidian%20+%20Claudian%20Plugin.md)
+- [Obsidian + Cron Plugin](../Plugins/Obsidian%20+%20Cron%20Plugin.md)
 # Obsidian Auto Daily Retro (retro-my-day)
 > **The goal of this document is to help you build an automated workflow in your `Obsidian` vault to automatically retrospect your day with your daily notes against your pre-defined personal goals.** 
 > 
-> >>>  **Let's hold ourselves accountable for our future.**
+>  **Let's hold ourselves accountable for our future.**
 
 ## Context
 Many people (maybe, like me for instance) maintain daily planners—structured files that track activities in time-blocks, accomplishments, miss-outs, reflections across areas like health, wealth, life, work, personal projects, etc. 
@@ -39,15 +39,15 @@ We need a systematic way to synthesize those daily logs _against_ your persona
 
 ## Steps
 ### Preparation
-- Install [[Obsidian + Claudian Plugin]]
-- Install [[Obsidian + Cron Plugin]]
+- Install [Obsidian + Claudian Plugin](../Plugins/Obsidian%20+%20Claudian%20Plugin.md)
+- Install [Obsidian + Cron Plugin](../Plugins/Obsidian%20+%20Cron%20Plugin.md)
 - Have your `personal context file ready`
 	- Have a `me.md` file with your goals, values, strategy, etc. listed
 	- Example: 
 	```
 	```
 - Have your `timelined daily note file` ready
-	- Keep your daily notes `[date].md` files in a folder to track the timelined activities --- see [[WIP - Obsidian Auto Daily Planner]]
+	- Keep your daily notes `[date].md` files in a folder to track the timelined activities --- see [WIP - Obsidian Auto Daily Planner](WIP%20-%20Obsidian%20Auto%20Daily%20Planner.md)
 	- Example:
 	```
 	```  
