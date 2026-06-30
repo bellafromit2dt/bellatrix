@@ -4,7 +4,7 @@
 - [Obsidian + Claudian Plugin](../Plugins/Obsidian%20+%20Claudian%20Plugin.md)
 - [Obsidian + Cron Plugin](../Plugins/Obsidian%20+%20Cron%20Plugin.md)
 # Obsidian Auto Daily Retro (retro-my-day)
-> **This document help you set up a scheduled daily automation to generate insightful summary of your day based on your daily notes and surface how your actions align with your personal goals. ** 
+> **This document help you set up a scheduled daily automation to generate insightful summary of your day based on your daily notes and surface how your actions align with your personal goals.** 
 >  
 >  **Let's hold ourselves accountable for our future.**
 
