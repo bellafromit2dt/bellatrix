@@ -5,7 +5,7 @@
 > **Let's hold ourselves accountable for our future.**
 
 ## Context
-Many people (maybe, like me for instance) maintain daily planners—structured files that track activities in time-blocks, accomplishments across areas like health, wealth, life, work, personal projects, etc. 
+Many people (maybe, like me for instance) maintain daily planners—structured files that track activities in time-blocks, accomplishments, miss-outs, reflections across areas like health, wealth, life, work, personal projects, etc. 
 
 Separately, they might have personal manifesto or goals documents with their values, long-term goals, strategy, priorities written for AI to gain background knowledge about them for personalised responses.
 
