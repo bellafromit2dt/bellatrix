@@ -1,9 +1,8 @@
 #obsidian  #howtos 
 #### References
 - [TODO - Obsidian Auto Daily Planner](TODO%20-%20Obsidian%20Auto%20Daily%20Planner.md)
-- [Obsidian + Claudian Plugin](../Plugins/Obsidian%20+%20Claudian%20Plugin.md)
-- [Obsidian + Cron Plugin](../Plugins/Obsidian%20+%20Cron%20Plugin.md)
 - [TODO - retro-my-day](../../Claude%20skills/TODO%20-%20retro-my-day.md)
+- [Obsidian + Claudian Plugin](../Plugins/Obsidian%20+%20Claudian%20Plugin.md)
 # Obsidian Auto Daily Retro (retro-my-day)
 > **This document help you set up a scheduled daily automation to generate insightful summary of your day based on your daily notes and surface how your actions align with your personal goals.** 
 >  
@@ -44,8 +43,7 @@ Better yet, I chained it with `Cron` plugin, which triggers this `/retro-my-day`
 ## Steps
 ### Preparation
 - Install [Obsidian + Claudian Plugin](../Plugins/Obsidian%20+%20Claudian%20Plugin.md)
-- Install [Obsidian + Cron Plugin](../Plugins/Obsidian%20+%20Cron%20Plugin.md)
-- Have your `personal context file ready`
+- Have your `personal context file` ready
 	- Have a `me.md` file with your goals, values, strategy, etc. listed
 	- Example: 
 	```
@@ -64,10 +62,6 @@ Better yet, I chained it with `Cron` plugin, which triggers this `/retro-my-day`
 	- Example:
 ```
 ```
-#### Create a Daily Cron Job for `/retro-my-day` Command
-- Go to Cron settings
-- Create a new cron job to trigger /retro-my-day command on a daily basis
-- Example:
 #### Run `/retro-my-day` Command in Claudian
 - In the Claudian window, execute this command and it will auto-generate your retro file in your designated folder
 - Review your generated daily retro. 
