@@ -3,6 +3,7 @@
 - [TODO - Obsidian Auto Daily Planner](TODO%20-%20Obsidian%20Auto%20Daily%20Planner.md)
 - [Obsidian + Claudian Plugin](../Plugins/Obsidian%20+%20Claudian%20Plugin.md)
 - [Obsidian + Cron Plugin](../Plugins/Obsidian%20+%20Cron%20Plugin.md)
+- [TODO - retro-my-day](../../Claude%20skills/TODO%20-%20retro-my-day.md)
 # Obsidian Auto Daily Retro (retro-my-day)
 > **This document help you set up a scheduled daily automation to generate insightful summary of your day based on your daily notes and surface how your actions align with your personal goals.** 
 >  
@@ -31,7 +32,7 @@ etc.
 - Clear next steps
 
 ## Solution
-`/retro-my-day` (see example prompt [retro-my-day](../../Claude%20skills/retro-my-day.md) ) command is an automated **Daily Synthesizer** command I created within `Claudian` plugin that:
+`/retro-my-day` (see example prompt [TODO - retro-my-day](TODO%20-%20retro-my-day.md) ) command is an automated **Daily Synthesizer** command I created within `Claudian` plugin that:
 1. Reads my goals, values etc from my `personal context file`.
 2. Analyzes my `timelined daily planner file titled with [Date].md` (completed tasks + personal reflections) 
 3. Generates a structured, insightful retro that identifies themes, patterns, and progress towards my personal goals
