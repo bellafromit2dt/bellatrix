@@ -1,1 +1,1 @@
-#obsidian #plugins #howtos 
+#obsidian #plugins 
