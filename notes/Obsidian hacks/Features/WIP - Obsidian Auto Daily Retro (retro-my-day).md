@@ -62,11 +62,10 @@ Better yet, I chained it with `Cron` plugin, which triggers this `/retro-my-day`
 	- Example:
 ```
 ```
-#### Run `/retro-my-day` Command in Claudian
-- In the Claudian window, execute this command and it will auto-generate your retro file in your designated folder
+#### Auto-generate retro with `/retro-my-day` in Claudian
+- Open a Claudian window, execute this command and it will auto-generate your retro file in your designated folder
 - Review your generated daily retro. 
 - If it's not quite what you wanted, provide feedback to Claudian to improve the content, structure, or format — in the end, don't forget to tell Claudian to update the `/retro-my-day` skill based on your new feedback, so the same instructions will be applied for your future retros.
-
 ## Summary
 Reviewing and writing short retro used to eat at least 15 minutes daily for me, now just 1 minute to review and tweak the auto-generated version. 14 minutes reclaimed every day, that's 98 minutes per week, or 7 hours per month... and compounding.
 
