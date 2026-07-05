@@ -2,7 +2,7 @@
 .claudian/
 .git/
 .obsidian/
-.templates/
+templates/
 
 # System files
 .DS_Store
