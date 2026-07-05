@@ -18,7 +18,7 @@ Notes in your Obsidian vault are crucial knowledge assets, but they're often sto
 - How can I share my vault on GitHub while ensuring links work properly across platforms?
 
 ## 💡 The Solution
-This solution combines two powerful Obsidian plugins to create an automated version control system for your vault. The **Obsidian Git Plugin** handles the Git operations—tracking changes, committing updates, and pushing to your remote GitHub repository. Meanwhile, the **Link Converter Plugin** ensures that Obsidian's wiki-link syntax (`[[note-name]]`) is converted to standard markdown links (`[note-name](note-name.md)`) for proper rendering on GitHub and other platforms.
+This solution combines two powerful Obsidian plugins to create an automated version control system for your vault. The **Obsidian Git Plugin** handles the Git operations—tracking changes, committing updates, and pushing to your remote GitHub repository. Meanwhile, the **Link Converter Plugin** ensures that Obsidian's wiki-link syntax (`[note-name](note-name)`) is converted to standard markdown links (`[note-name](note-name.md)`) for proper rendering on GitHub and other platforms.
 
 **What it does:**
 1. **Automatically commits vault changes** — The Git plugin monitors your vault and creates regular commits with timestamped messages, building a complete version history without manual intervention
@@ -46,7 +46,7 @@ This solution combines two powerful Obsidian plugins to create an automated vers
 1. Go to **Settings → Community plugins** and search for **Link Converter**
 2. Install and enable the plugin
 3. Configure in **Settings → Link Converter**:
-   - Set conversion format to **Markdown** (to convert `[[wiki-links]]` → `[text](link)`)
+   - Set conversion format to **Markdown** (to convert `[wiki-links](wiki-links)` → `[text](link)`)
    - Enable **Auto-convert on file save** if you want automatic link conversion
    - Alternatively, manually convert links using the command palette when needed
 
@@ -62,8 +62,8 @@ With auto-sync enabled, your vault becomes a living, versioned knowledge base. Y
 | Collaboration Capability | Not possible | Enabled via Git branches |
 
 ## 📚 Learn More
-- [[Obsidian + Git Plugin]] — Full documentation on configuring the Git plugin for your vault
-- [[Obsidian + Link Converter Plugin]] — Details on link formatting and compatibility options
+- [Obsidian + Git Plugin](../Plugins/Obsidian%20+%20Git%20Plugin.md) — Full documentation on configuring the Git plugin for your vault
+- [Obsidian + Link Converter Plugin](../Plugins/Obsidian%20+%20Link%20Converter%20Plugin.md) — Details on link formatting and compatibility options
 - [Obsidian Git Plugin GitHub](https://github.com/denolehov/obsidian-git) — Official repository with advanced configuration options
 - [Link Converter Plugin GitHub](https://github.com/ozntel/obsidian-link-converter) — Source code and feature documentation
 - [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/) — Best practices for displaying Markdown on GitHub
