@@ -40,7 +40,7 @@ Chain it with the **Cron plugin** to auto-generate your retro at 10pm every nigh
 	- Context file: your **personal context file**
 	- Input folder: your **daily notes** directory
 	- Output folder: your **daily retros** directory
-	- Example: see [[TODO - retro-my-day]]
+	- Example: see [TODO - retro-my-day](../../Claude%20skills/TODO%20-%20retro-my-day.md)
 
 ### Step 2: Run Your First Retro
 - Open a **Claudian window**

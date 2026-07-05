@@ -5,18 +5,18 @@
 Create timestamped daily planner in seconds, skipping the mental overhead of daily setup and freeing your brain for meaningful work only.
 
 ## 📋 Prerequisites & Setup
-- [[Obsidian + Daily Notes Plugin]] (Obsidian built-in) -- enabled & configured
-- [[Obsidian + Day Planner Plugin]] (community plugin) -- installed & enabled & configured
+- [Obsidian + Daily Notes Plugin](../Plugins/Obsidian%20+%20Daily%20Notes%20Plugin.md) (Obsidian built-in) -- enabled & configured
+- [Obsidian + Day Planner Plugin](../Plugins/Obsidian%20+%20Day%20Planner%20Plugin.md) (community plugin) -- installed & enabled & configured
 - A **daily planner template** file (instructions below)
 
 ## 🤔 The Problem
 **Manually planning your day wastes time and reduces consistency**.
 
 **Key pain points:**
-- Manually recreating the same structure each day (headers, time blocks, etc.)
-- Accidentally continuing to yesterday's note and become unorganised
+- Manually recreating daily planner each day
+- Accidentally continuing to old notes and become unorganised
 - Spending 2-5 minutes on setup instead of planning and prioritising tasks
-- Missing the visual timeline view that shows your entire day at a glance
+- Missing visual timeline view that shows the entire day at a glance
 
 ## 💡 The Solution
 **Use automated daily notes with a pre-built template and visual timeline.**
@@ -94,5 +94,5 @@ Once configured, this workflow eliminates daily planning friction:
 | Daily plan abandonment            | High          | Low (it's ready to go)   |
 
 ## 📚 Learn More
-- [[Obsidian Auto Daily Retro]]
+- [Obsidian Auto Daily Retro](Obsidian%20Auto%20Daily%20Retro.md)
 
