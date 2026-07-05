@@ -1,5 +1,5 @@
 ⏱️ **Reading time: 2 minutes** | #obsidian #howtos #productivity 
-# Obsidian Auto Daily Retro (retro-my-day)
+# Obsidian Auto Daily Retro
 
 ## 🎯 TL;DR
 Auto-generate insightful daily retros using AI — connect your daily actions to your personal goals. Reclaim 14+ minutes per day that manual retros used to consume.

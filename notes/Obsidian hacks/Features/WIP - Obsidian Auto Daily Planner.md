@@ -2,7 +2,7 @@
 # Obsidian Auto Daily Planner
 
 ## 🎯 TL;DR
-Set up an automated daily planner that creates a new timestamped note each day with built-in time blocks. Create a daily planner note in under 5 seconds with just two clicks, giving you an instant timelined planning interface.
+Auto-create daily planner that creates a new timestamped note each day with built-in time blocks. Create a daily planner note in under 5 seconds with just two clicks, giving you an instant timelined planning interface.
 
 ## 📋 Prerequisites & Setup
 - **[Periodic Notes](obsidian://show-plugin?id=periodic-notes)** plugin (installed & enabled)
