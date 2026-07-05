@@ -1,4 +1,4 @@
-⏱️ **Reading time: 5 minutes** | #obsidian #howtos #productivity
+⏱️ **Reading time: 3 minutes** | #obsidian #howtos #productivity
 # Obsidian Auto Daily Planner
 
 ## 🎯 TL;DR
@@ -44,15 +44,6 @@ Create timestamped daily planner in seconds, skipping the mental overhead of dai
 - [ ] 06:00 - 07:00
 - [ ] 07:00 - 08:00 
 - [ ] 08:00 - 09:00
-- [ ] 09:00 - 10:00
-- [ ] 10:00 - 11:00
-- [ ] 11:00 - 12:00
-- [ ] 12:00 - 13:00
-- [ ] 13:00 - 14:00
-- [ ] 14:00 - 15:00
-- [ ] 15:00 - 16:00
-- [ ] 16:00 - 17:00
-- [ ] 17:00 - 18:00
 ...
 
 ## 🎯 Today's Priorities

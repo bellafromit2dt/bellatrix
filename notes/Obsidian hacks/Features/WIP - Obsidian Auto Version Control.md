@@ -1,4 +1,3 @@
-#obsidian  #howtos 
 ⏱️ **Reading time: 5 minutes** | #obsidian #howtos #productivity
 # Obsidian Auto Version Control
 
