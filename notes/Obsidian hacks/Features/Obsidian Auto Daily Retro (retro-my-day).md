@@ -1,18 +1,14 @@
-⏱️ **Reading time: 3 minutes** | #obsidian #howtos
+⏱️ **Reading time: 2 minutes** | #obsidian #howtos
 # Obsidian Auto Daily Retro (retro-my-day)
----
 
 ## 🎯 TL;DR
 Auto-generate insightful daily retros using AI — connect your daily actions to your personal goals. Reclaim 14+ minutes per day that manual retros used to consume.
-
----
 
 ## 📋 Prerequisites & Setup
 - [Obsidian + Claudian Plugin](../Plugins/Obsidian%20+%20Claudian%20Plugin.md) (with AI connectivity enabled)
 - Your **personal context file** (goals, values, strategy)
 - Your **daily note files** in `[Date].md` format (see [TODO - Obsidian Auto Daily Planner](TODO%20-%20Obsidian%20Auto%20Daily%20Planner.md))
 
----
 ## 🤔 The Problem
 **Manual daily retrospectives are slow, shallow, and missing the bigger picture.**
 
@@ -22,8 +18,6 @@ You might log your day → but have you asked:
 - What recurring patterns or improvement opportunities am I missing?
 - How does today connect to my long-term vision?
 - What are my immediate next steps?
-
---- 
 
 ## 💡 The Solution
 **Use AI to systematically and automatically align your daily logs against your personal goals.**
@@ -38,7 +32,6 @@ You might log your day → but have you asked:
 **The magic:** 
 Chain it with the **Cron plugin** to auto-generate your retro at 10pm every night.
 
-----
 ## 🚀 How to Set it Up
 ### Step 1: Create a Claudian Command
 - Open **Claudian settings** → **New Command**
@@ -54,8 +47,6 @@ Chain it with the **Cron plugin** to auto-generate your retro at 10pm every nigh
 - Type `/retro-my-day` + the date (today/yesterday/any date)
 - Review & refine if needed
 - Optionally ask Claudian to update the command prompt based on feedback
-
----
 
 ## 📊 The Impact
 **14 minutes reclaimed every day. That compounds.**
