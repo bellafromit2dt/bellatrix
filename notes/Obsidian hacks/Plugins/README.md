@@ -7,9 +7,9 @@
 - [[Obsidian + Dataview Plugin]]
 
 ## Features
-- [[Obsidian + Git Plugin]] - If you would like to version control your public vault 
-- [[Obsidian + WeRead Plugin]] - If you would like to read on WeRead and auto-sync your comments to your vault
-
+- [[Obsidian + Git Plugin]] - for **version control** the content in your vault 
+- [[Obsidian + Marvis Plugin]] for **project management** in your vault
+- [[Obsidian + WeRead Plugin]] - for **auto-syncing** your WeRead reading history to your vault
 
 
 
