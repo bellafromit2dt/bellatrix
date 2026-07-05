@@ -1,16 +1,10 @@
-## Foundations 
-- [[Obsidian + Make Plugin]]
-- [[Obsidian + Homepage Plugin]]
+This folder contains Obsidian plugins and their integrations.
 
-## Recommended
-- [[Obsidian + Claudian Plugin]]
-- [[Obsidian + Dataview Plugin]]
+## All Plugins (Auto-updated)
 
-## Features
-- [[Obsidian + Git Plugin]] - for **version control** the content in your vault 
-- [[Obsidian + Marvis Plugin]] for **project management** in your vault
-- [[Obsidian + WeRead Plugin]] - for **auto-syncing** your WeRead reading history to your vault
-- 
-
-
-
+```dataview
+LIST WITHOUT ID file.link
+FROM "notes/Obsidian hacks/Plugins"
+WHERE file.name != "README"
+SORT file.name
+```
