@@ -1,4 +1,4 @@
-⏱️ **Reading time: 2 minutes** | #obsidian #howtos
+⏱️ **Reading time: 2 minutes** | #obsidian #howtos #productivity 
 # Obsidian Auto Daily Retro (retro-my-day)
 
 ## 🎯 TL;DR
@@ -7,12 +7,12 @@ Auto-generate insightful daily retros using AI — connect your daily actions to
 ## 📋 Prerequisites & Setup
 - [Obsidian + Claudian Plugin](../Plugins/Obsidian%20+%20Claudian%20Plugin.md) (with AI connectivity enabled)
 - Your **personal context file** (goals, values, strategy)
-- Your **daily note files** in `[Date].md` format (see [TODO - Obsidian Auto Daily Planner](TODO%20-%20Obsidian%20Auto%20Daily%20Planner.md))
+- Your **daily note files** in `[Date].md` format (see [WIP - Obsidian Auto Daily Planner](WIP%20-%20Obsidian%20Auto%20Daily%20Planner.md))
 
 ## 🤔 The Problem
 **Manual daily retrospectives are slow, shallow, and missing the bigger picture.**
 
-You might log your day → but have you asked:
+You might log and retro your day → but have you asked:
 - Did I move toward my goals today?
 - Which activities aligned with my priorities? Which didn't?
 - What recurring patterns or improvement opportunities am I missing?
@@ -59,5 +59,5 @@ Chain it with the **Cron plugin** to auto-generate your retro at 10pm every nigh
 | **Insight depth** | Shallow | Deep patterns + alignment |
 ## 📚 Learn More
 - [TODO - retro-my-day](../../Claude%20skills/TODO%20-%20retro-my-day.md) — see the command example
-- [TODO - Obsidian Auto Daily Planner](TODO%20-%20Obsidian%20Auto%20Daily%20Planner.md) — how to structure your daily notes
+- [WIP - Obsidian Auto Daily Planner](WIP%20-%20Obsidian%20Auto%20Daily%20Planner.md) — how to structure your daily notes
 
