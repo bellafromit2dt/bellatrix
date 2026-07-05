@@ -57,9 +57,6 @@ Chain it with the **Cron plugin** to auto-generate your retro at 10pm every nigh
 | **Time saved per week** | — | 98 minutes |
 | **Time saved per month** | — | 7+ hours |
 | **Insight depth** | Shallow | Deep patterns + alignment |
-
----
-
 ## 📚 Learn More
 - [TODO - retro-my-day](../../Claude%20skills/TODO%20-%20retro-my-day.md) — see the command example
 - [TODO - Obsidian Auto Daily Planner](TODO%20-%20Obsidian%20Auto%20Daily%20Planner.md) — how to structure your daily notes
