@@ -1,15 +1,17 @@
 #obsidian  #howtos 
-#### References
-- [TODO - Obsidian Auto Daily Planner](TODO%20-%20Obsidian%20Auto%20Daily%20Planner.md)
-- [TODO - retro-my-day](../../Claude%20skills/TODO%20-%20retro-my-day.md)
+#### Pre-requisites
 - [Obsidian + Claudian Plugin](../Plugins/Obsidian%20+%20Claudian%20Plugin.md)
+- [TODO - Obsidian Auto Daily Planner](TODO%20-%20Obsidian%20Auto%20Daily%20Planner.md)
+#### References
+- [TODO - retro-my-day](../../Claude%20skills/TODO%20-%20retro-my-day.md) for example command
+
 # Obsidian Auto Daily Retro (retro-my-day)
 > **This document help you set up a scheduled daily automation to generate insightful summary of your day based on your daily notes and surface how your actions align with your personal goals.** 
 >  
 >  **Let's hold ourselves accountable for our future.**
 
 ## Context
-Many people (maybe, like me for instance) maintain daily planners—structured files that track activities in time-blocks, accomplishments, miss-outs, reflections across areas like health, wealth, life, work, personal projects, etc. (see [TODO - Obsidian Auto Daily Planner](TODO%20-%20Obsidian%20Auto%20Daily%20Planner.md) for examples) 
+Many people (maybe, like me for instance) maintain daily planners —structured files that track activities in time-blocks, accomplishments, miss-outs, reflections across areas like health, wealth, life, work, personal projects, etc. (see [TODO - Obsidian Auto Daily Planner](TODO%20-%20Obsidian%20Auto%20Daily%20Planner.md) for examples) 
 
 Separately, they might have personal manifesto or goals documents with their values, long-term goals, strategy, priorities written for AI to gain background knowledge about them for personalised responses.
 
