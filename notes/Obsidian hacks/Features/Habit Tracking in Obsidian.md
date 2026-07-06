@@ -38,11 +38,14 @@ Create notes in that folder with your habit names:
 
 ### Step 4: Display Your Dashboard
 Add this code block to any note where you want to see your habits:
+``` 
+// see https://github.com/zincplusplus/habit-tracker#quick-start
 ```habittracker
 {
   "path": "resources/habits"
 }
 ```
+
 Example screenshot
 ![Screenshot 2026-07-06 at 21.16.36](../../../resources/screenshots/Screenshot%202026-07-06%20at%2021.16.36.png)
 ### Step 5: Start Tracking
