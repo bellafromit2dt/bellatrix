@@ -1,5 +1,5 @@
 ⏱️ **Reading time: X minutes** | #obsidian #howtos #productivity
-# [Title]
+# Obsidian Project & Task Management
 
 ## 🎯 TL;DR
 [One-sentence summary of what this accomplishes and the core benefit]
