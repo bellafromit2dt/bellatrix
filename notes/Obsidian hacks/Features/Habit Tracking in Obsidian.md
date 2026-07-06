@@ -3,6 +3,7 @@
 
 ## 🎯 TL;DR
 Visualise and manage all your habits in a Github-style heat-map --- Track streaks, build momentum, no scattered notes or apps. Setup takes 5 minutes.
+
 ![[Screenshot 2026-07-06 at 21.16.36.png]]
 ## 📋 Prerequisites & Setup
 - [⭐️⭐️⭐️ Obsidian + Habit Tracker 21](../Plugins/⭐️⭐️⭐️%20Obsidian%20+%20Habit%20Tracker%2021.md) installed and enabled
