@@ -62,8 +62,19 @@ Check off habits daily. The plugin auto-timestamps each check. Watch your streak
 | 3–5 min to track habits | 5 seconds          |
 | Can't spot patterns     | Instant insights   |
 
+## 🎯 Quick Tips
+- **Review weekly:** Every Sunday, check your dashboard and celebrate wins
+- **Streaks matter:** When one breaks, just restart immediately. Momentum > perfection
+- **Combine with daily notes:** Optional—some people add a habit section to their daily note, others keep it separate
+
+## 📚 Learn More
+- [Atomic Habits by James Clear](https://jamesclear.com/) — the science behind habit tracking
+
+---
+
 ## 💪🏻 Advanced: `Dataview` Analytics
 Combine it with `Dataview` plugin to create a summary table showing your weekly and monthly habit completion rates to track if you hit your targets (eg. 80%).
+
 **Example screenshot:**
 ![Screenshot 2026-07-06 at 21.23.49](../../../resources/screenshots/Screenshot%202026-07-06%20at%2021.23.49.png)
 
@@ -144,13 +155,3 @@ dv.table(
 ```
 
 </details>
-
-<!-- break -->
-
-## 🎯 Quick Tips
-- **Review weekly:** Every Sunday, check your dashboard and celebrate wins
-- **Streaks matter:** When one breaks, just restart immediately. Momentum > perfection
-- **Combine with daily notes:** Optional—some people add a habit section to their daily note, others keep it separate
-
-## 📚 Learn More
-- [Atomic Habits by James Clear](https://jamesclear.com/) — the science behind habit tracking
