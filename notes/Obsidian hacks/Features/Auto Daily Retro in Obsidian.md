@@ -2,7 +2,7 @@
 # Obsidian Auto Daily Retro
 
 ## 🎯 TL;DR
-Auto-generate insightful daily retros using AI — connect your daily actions to your personal goals. Reclaim 14+ minutes per day that manual retros used to consume. 
+Auto-generate insightful daily retros using AI — connect your daily actions to your personal goals. Reclaim 10+ minutes per day that manual retros used to consume, with more depth and insights.
 **Get started in 5 minutes --- just follow this guide!**
 
 ## 📋 Prerequisites & Setup
@@ -42,12 +42,12 @@ You might log and retro your day → but have you asked:
 
 ### Step 2: Run Your First Retro
 - Open a **Claudian window**
-- Type `/retro-my-day` + the date (today/yesterday/any date)
+- Type `/retro-my-day` and the date (today/yesterday/any date)
 - Review & refine if needed
 - Optionally ask Claudian to update the command prompt based on feedback
 
 ## 📊 The Impact
-**14 minutes reclaimed every day. That compounds.**
+**10+ minutes reclaimed every day. That compounds.**
 
 | Metric | Before | After |
 |--------|--------|-------|
