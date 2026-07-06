@@ -64,8 +64,11 @@ Check off habits daily. The plugin auto-timestamps each check. Watch your streak
 | 3–5 min to track habits | 5 seconds          |
 | Can't spot patterns     | Instant insights   |
 
-## 💪🏻 Advanced:  `Dataview` Analytics
+## 💪🏻 Advanced: `Dataview` Analytics
 Combine it with `Dataview` plugin to create a summary table showing your weekly and monthly habit completion rates to track if you hit your targets (eg. 80%)
+
+<details>
+<summary>📊 Click to show Dataview code for weekly/monthly analytics</summary>
 ```dataviewjs
 const SUCCESS_THRESHOLD = 0.80;
 
@@ -138,7 +141,9 @@ dv.table(
   rows
 );
 ```
-Example screenshot
+</details>
+
+**Example screenshot:**
 ![Screenshot 2026-07-06 at 21.23.49](../../../resources/screenshots/Screenshot%202026-07-06%20at%2021.23.49.png)
 
 ## 🎯 Quick Tips
