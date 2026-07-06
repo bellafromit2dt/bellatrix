@@ -1,4 +1,4 @@
-⏱️ **Reading time: 2 minutes** | #obsidian #howtos #productivity #habits 
+⏱️ **Reading time: 3 minutes** | #obsidian #howtos #productivity #habits 
 # Habit Tracking in Obsidian
 
 ## 🎯 TL;DR
@@ -80,7 +80,7 @@ Combine it with `Dataview` plugin to create a summary table showing your weekly 
 ![Screenshot 2026-07-06 at 21.23.49](../../../resources/screenshots/Screenshot%202026-07-06%20at%2021.23.49.png)
 
 <details>
-<summary>📊 Click to show Dataview code for weekly/monthly analytics</summary>
+<summary>📊 Click to see example Dataview code for weekly/monthly analytics</summary>
 
 ```dataviewjs
 const SUCCESS_THRESHOLD = 0.80;
