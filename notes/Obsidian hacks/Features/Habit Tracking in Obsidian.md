@@ -3,7 +3,7 @@
 
 ## 🎯 TL;DR
 Visualise and manage all your habits in a Github-style heat-map --- Track streaks, build momentum, no scattered notes or apps. Setup takes 5 minutes.
-
+![[Screenshot 2026-07-06 at 21.16.36.png]]
 ## 📋 Prerequisites & Setup
 - [⭐️⭐️⭐️ Obsidian + Habit Tracker 21](../Plugins/⭐️⭐️⭐️%20Obsidian%20+%20Habit%20Tracker%2021.md) installed and enabled
 - A dedicated habits folder (required for configuration)
@@ -36,18 +36,16 @@ Create notes in that folder with your habit names:
 - [Daily 8 glasses of water](../../../resources/habits/Daily%208%20glasses%20of%20water.md)
 - (Create whatever habit you want to track)
 
-### Step 4: Display Your Dashboard
-Add this code block to any note where you want to see your habits:
+### Step 4: Display Habits Dashboard
+Add [this code block](https://github.com/zincplusplus/habit-tracker#quick-start) to any note where you want to see your habits:
 ``` 
-// see https://github.com/zincplusplus/habit-tracker#quick-start
+// remove this line
 ```habittracker
 {
   "path": "resources/habits"
 }
 ```
 
-Example screenshot
-![Screenshot 2026-07-06 at 21.16.36](../../../resources/screenshots/Screenshot%202026-07-06%20at%2021.16.36.png)
 ### Step 5: Start Tracking
 Check off habits daily. The plugin auto-timestamps each check. Watch your streaks grow.
 💡 **Pro tip:** 
@@ -55,7 +53,7 @@ Check off habits daily. The plugin auto-timestamps each check. Watch your streak
 - Click any habit to add notes about that habit
 
 ## 📊 The Impact
-**Consistency compounds. Small daily wins turn into unstoppable momentum.**
+**Consistency compounds. Small daily wins accumulate unstoppable momentum.**
 
 | Before                  | After              |
 | ----------------------- | ------------------ |
@@ -65,10 +63,13 @@ Check off habits daily. The plugin auto-timestamps each check. Watch your streak
 | Can't spot patterns     | Instant insights   |
 
 ## 💪🏻 Advanced: `Dataview` Analytics
-Combine it with `Dataview` plugin to create a summary table showing your weekly and monthly habit completion rates to track if you hit your targets (eg. 80%)
+Combine it with `Dataview` plugin to create a summary table showing your weekly and monthly habit completion rates to track if you hit your targets (eg. 80%).
+**Example screenshot:**
+![Screenshot 2026-07-06 at 21.23.49](../../../resources/screenshots/Screenshot%202026-07-06%20at%2021.23.49.png)
 
 <details>
 <summary>📊 Click to show Dataview code for weekly/monthly analytics</summary>
+
 ```dataviewjs
 const SUCCESS_THRESHOLD = 0.80;
 
@@ -141,10 +142,10 @@ dv.table(
   rows
 );
 ```
+
 </details>
 
-**Example screenshot:**
-![Screenshot 2026-07-06 at 21.23.49](../../../resources/screenshots/Screenshot%202026-07-06%20at%2021.23.49.png)
+<!-- break -->
 
 ## 🎯 Quick Tips
 - **Review weekly:** Every Sunday, check your dashboard and celebrate wins
