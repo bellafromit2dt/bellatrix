@@ -31,9 +31,9 @@ Settings → Community plugins → Browse → Search `Habit Tracker 21` → Inst
 
 ### Step 3: Add Your Habits
 Create notes in that folder with your habit names:
-- [[Daily 30mins Reading]]
-- [[Weekly 3 Workouts]]
-- [[Daily 8 glasses of water]]
+- [Daily 30mins Reading](../../../resources/habits/Daily%2030mins%20Reading.md)
+- [Weekly 3 Workouts](../../../resources/habits/Weekly%203%20Workouts.md)
+- [Daily 8 glasses of water](../../../resources/habits/Daily%208%20glasses%20of%20water.md)
 - (Create whatever habit you want to track)
 
 ### Step 4: Display Your Dashboard
@@ -44,7 +44,7 @@ Add this code block to any note where you want to see your habits:
 }
 ```
 Example screenshot
-![[Screenshot 2026-07-06 at 21.16.36.png]]
+![Screenshot 2026-07-06 at 21.16.36](../../../resources/screenshots/Screenshot%202026-07-06%20at%2021.16.36.png)
 ### Step 5: Start Tracking
 Check off habits daily. The plugin auto-timestamps each check. Watch your streaks grow.
 💡 **Pro tip:** 
@@ -136,7 +136,7 @@ dv.table(
 );
 ```
 Example screenshot
-![[Screenshot 2026-07-06 at 21.23.49.png]]
+![Screenshot 2026-07-06 at 21.23.49](../../../resources/screenshots/Screenshot%202026-07-06%20at%2021.23.49.png)
 
 ## 🎯 Quick Tips
 - **Review weekly:** Every Sunday, check your dashboard and celebrate wins
