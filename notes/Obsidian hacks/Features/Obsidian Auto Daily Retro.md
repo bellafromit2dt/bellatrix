@@ -5,7 +5,7 @@
 Auto-generate insightful daily retros using AI — connect your daily actions to your personal goals. Reclaim 14+ minutes per day that manual retros used to consume.
 
 ## 📋 Prerequisites & Setup
-- [Obsidian + Claudian Plugin](../Plugins/Obsidian%20+%20Claudian%20Plugin.md) (with AI connectivity enabled)
+- [⭐️⭐️⭐️⭐️⭐️ Obsidian + Claudian Plugin](⭐️⭐️⭐️⭐️⭐️%20Obsidian%20+%20Claudian%20Plugin.md) (with AI connectivity enabled)
 - Your **personal context file** (goals, values, strategy)
 - Your **daily note files** in `[Date].md` format (see [Obsidian Auto Daily Planner](Obsidian%20Auto%20Daily%20Planner.md))
 

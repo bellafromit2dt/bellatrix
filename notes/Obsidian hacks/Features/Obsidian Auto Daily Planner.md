@@ -5,8 +5,8 @@
 Create timestamped daily planner in seconds, skipping the mental overhead of daily setup and freeing your brain for meaningful work only.
 
 ## 📋 Prerequisites & Setup
-- [Obsidian + Daily Notes Plugin](../Plugins/Obsidian%20+%20Daily%20Notes%20Plugin.md) (Obsidian built-in) -- enabled & configured
-- [Obsidian + Day Planner Plugin](../Plugins/Obsidian%20+%20Day%20Planner%20Plugin.md) (community plugin) -- installed & enabled & configured
+- [⭐️⭐️⭐️ Obsidian + Daily Notes Plugin](⭐️⭐️⭐️%20Obsidian%20+%20Daily%20Notes%20Plugin.md) (Obsidian built-in) -- enabled & configured
+- [⭐️⭐️⭐️ Obsidian + Day Planner Plugin](⭐️⭐️⭐️%20Obsidian%20+%20Day%20Planner%20Plugin.md) (community plugin) -- installed & enabled & configured
 - A **daily planner template** file (instructions below)
 
 ## 🤔 The Problem

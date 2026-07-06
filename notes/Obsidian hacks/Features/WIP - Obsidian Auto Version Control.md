@@ -5,8 +5,8 @@
 Use the Obsidian Git and Link Converter plugins to automatically commit and push your vault changes to GitHub, creating a complete version history of your notes with proper link formatting for cross-platform compatibility.
 
 ## 📋 Prerequisites & Setup
- - [Obsidian + Git Plugin](../Plugins/Obsidian%20+%20Git%20Plugin.md)
- - [Obsidian + Link Converter Plugin](../Plugins/Obsidian%20+%20Link%20Converter%20Plugin.md)
+ - [⭐️⭐️⭐️⭐️ Obsidian + Git Plugin](⭐️⭐️⭐️⭐️%20Obsidian%20+%20Git%20Plugin.md)
+ - [⭐️⭐️⭐️ Obsidian + Link Converter Plugin](⭐️⭐️⭐️%20Obsidian%20+%20Link%20Converter%20Plugin.md)
 
 ## 🤔 The Problem
 Notes in your Obsidian vault are crucial knowledge assets, but they're often stored only locally. Without version control, you lose the ability to track changes, recover older versions, or maintain a backup in case of data loss. Additionally, Obsidian's native wiki-links may not render properly on GitHub, making your vault inaccessible or poorly formatted when shared externally.
@@ -61,8 +61,8 @@ With auto-sync enabled, your vault becomes a living, versioned knowledge base. Y
 | Collaboration Capability | Not possible | Enabled via Git branches |
 
 ## 📚 Learn More
-- [Obsidian + Git Plugin](../Plugins/Obsidian%20+%20Git%20Plugin.md) — Full documentation on configuring the Git plugin for your vault
-- [Obsidian + Link Converter Plugin](../Plugins/Obsidian%20+%20Link%20Converter%20Plugin.md) — Details on link formatting and compatibility options
+- [⭐️⭐️⭐️⭐️ Obsidian + Git Plugin](⭐️⭐️⭐️⭐️%20Obsidian%20+%20Git%20Plugin.md) — Full documentation on configuring the Git plugin for your vault
+- [⭐️⭐️⭐️ Obsidian + Link Converter Plugin](⭐️⭐️⭐️%20Obsidian%20+%20Link%20Converter%20Plugin.md) — Details on link formatting and compatibility options
 - [Obsidian Git Plugin GitHub](https://github.com/denolehov/obsidian-git) — Official repository with advanced configuration options
 - [Link Converter Plugin GitHub](https://github.com/ozntel/obsidian-link-converter) — Source code and feature documentation
 - [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/) — Best practices for displaying Markdown on GitHub
