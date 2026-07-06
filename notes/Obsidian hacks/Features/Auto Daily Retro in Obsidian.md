@@ -6,7 +6,7 @@ Auto-generate insightful daily retros using AI — connect your daily actions to
 **Get started in 5 minutes --- just follow this guide!**
 
 ## 📋 Prerequisites & Setup
-- [⭐️⭐️⭐️⭐️⭐️ Obsidian + Claudian Plugin](⭐️⭐️⭐️⭐️⭐️%20Obsidian%20+%20Claudian%20Plugin.md) (with AI connectivity enabled)
+- [⭐️⭐️⭐️⭐️⭐️ Obsidian + Claudian Plugin](⭐️⭐️⭐️⭐️⭐️%20Obsidian%20+%20Claudian%20Plugin.md) (installed and with AI connectivity enabled)
 - Your **personal context file** (goals, values, strategy)
 - Your **daily note files** in `[Date].md` format (see [Auto Daily Planner in Obsidian](Auto%20Daily%20Planner%20in%20Obsidian.md))
 
@@ -29,9 +29,6 @@ You might log and retro your day → but have you asked:
 3. 🧠 **Generates** a structured retro with themes, patterns, and progress toward goals
 4. 🚨 **Flags** misalignments and blind spots
 5. 🎯 **Recommends** clear next steps
-
-**The magic:** 
-Chain it with the **Cron plugin** to auto-generate your retro at 10pm every night.
 
 ## 🚀 How to Set it Up
 ### Step 1: Create a Claudian Command
