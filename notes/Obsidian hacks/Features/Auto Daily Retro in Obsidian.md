@@ -1,8 +1,9 @@
-⏱️ **Reading time: 2 minutes** | #obsidian #howtos #productivity 
+⏱️ **Reading time: 3 minutes** | #obsidian #howtos #productivity 
 # Obsidian Auto Daily Retro
 
 ## 🎯 TL;DR
-Auto-generate insightful daily retros using AI — connect your daily actions to your personal goals. Reclaim 14+ minutes per day that manual retros used to consume.
+Auto-generate insightful daily retros using AI — connect your daily actions to your personal goals. Reclaim 14+ minutes per day that manual retros used to consume. 
+**Get started in 5 minutes --- just follow this guide!**
 
 ## 📋 Prerequisites & Setup
 - [⭐️⭐️⭐️⭐️⭐️ Obsidian + Claudian Plugin](⭐️⭐️⭐️⭐️⭐️%20Obsidian%20+%20Claudian%20Plugin.md) (with AI connectivity enabled)

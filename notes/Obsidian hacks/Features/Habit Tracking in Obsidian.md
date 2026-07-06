@@ -2,7 +2,8 @@
 # Habit Tracking in Obsidian
 
 ## 🎯 TL;DR
-Visualise and manage all your habits in a Github-style heat-map --- Track streaks, build momentum, no scattered notes or apps. Setup takes 5 minutes.
+Visualise and manage all your habits in a Github-style heat-map --- track streaks, build momentum, no scattered notes or apps. 
+**Get started in 5 minutes --- just follow this guide!**
 
 ![Screenshot 2026-07-06 at 21.16.36](../../../resources/screenshots/Screenshot%202026-07-06%20at%2021.16.36.png)
 ## 📋 Prerequisites & Setup
@@ -48,7 +49,8 @@ Add [this code block](https://github.com/zincplusplus/habit-tracker#quick-start)
 ```
 
 ### Step 5: Start Tracking
-Check off habits daily. The plugin auto-timestamps each check. Watch your streaks grow.
+Check off habits daily. The plugin auto-timestamps each check. Watch your streaks grow 🚀
+
 💡 **Pro tip:** 
 - Click any date to add notes about that day
 - Click any habit to add notes about that habit
@@ -70,8 +72,6 @@ Check off habits daily. The plugin auto-timestamps each check. Watch your streak
 
 ## 📚 Learn More
 - [Atomic Habits by James Clear](https://jamesclear.com/) — the science behind habit tracking
-
----
 
 ## 💪🏻 Advanced: `Dataview` Analytics
 Combine it with `Dataview` plugin to create a summary table showing your weekly and monthly habit completion rates to track if you hit your targets (eg. 80%).

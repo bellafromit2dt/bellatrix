@@ -3,6 +3,7 @@
 
 ## 🎯 TL;DR
 Use the Obsidian Git and Link Converter plugins to automatically commit and push your vault changes to GitHub, creating a complete version history of your notes with proper link formatting for cross-platform compatibility.
+**Get started in 5 minutes --- just follow this guide!**
 
 ## 📋 Prerequisites & Setup
  - [⭐️⭐️⭐️⭐️ Obsidian + Git Plugin](⭐️⭐️⭐️⭐️%20Obsidian%20+%20Git%20Plugin.md)
