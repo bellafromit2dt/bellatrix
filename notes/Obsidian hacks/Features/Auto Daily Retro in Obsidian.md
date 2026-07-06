@@ -7,7 +7,7 @@ Auto-generate insightful daily retros using AI — connect your daily actions to
 ## 📋 Prerequisites & Setup
 - [⭐️⭐️⭐️⭐️⭐️ Obsidian + Claudian Plugin](⭐️⭐️⭐️⭐️⭐️%20Obsidian%20+%20Claudian%20Plugin.md) (with AI connectivity enabled)
 - Your **personal context file** (goals, values, strategy)
-- Your **daily note files** in `[Date].md` format (see [Obsidian Auto Daily Planner](Obsidian%20Auto%20Daily%20Planner.md))
+- Your **daily note files** in `[Date].md` format (see [Auto Daily Planner in Obsidian](Auto%20Daily%20Planner%20in%20Obsidian.md))
 
 ## 🤔 The Problem
 **Manual daily retrospectives are slow, shallow, and missing the bigger picture.**
@@ -59,5 +59,5 @@ Chain it with the **Cron plugin** to auto-generate your retro at 10pm every nigh
 | **Insight depth** | Shallow | Deep patterns + alignment |
 ## 📚 Learn More
 - [TODO - retro-my-day](../../Claude%20skills/TODO%20-%20retro-my-day.md) — see the command example
-- [Obsidian Auto Daily Planner](Obsidian%20Auto%20Daily%20Planner.md) — how to structure your daily notes
+- [Auto Daily Planner in Obsidian](Auto%20Daily%20Planner%20in%20Obsidian.md) — how to structure your daily notes
 

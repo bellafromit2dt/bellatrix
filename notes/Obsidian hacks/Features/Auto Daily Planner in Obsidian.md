@@ -81,5 +81,5 @@ Once configured, this workflow eliminates daily planning friction:
 | Daily plan abandonment            | High          | Low (it's ready to go)   |
 
 ## 📚 Learn More
-- [Obsidian Auto Daily Retro](Obsidian%20Auto%20Daily%20Retro.md)
+- [Auto Daily Retro in Obsidian](Auto%20Daily%20Retro%20in%20Obsidian.md)
 
