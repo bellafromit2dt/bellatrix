@@ -2,7 +2,7 @@
 # Obsidian Auto Version Control
 
 ## 🎯 TL;DR
-Use the Obsidian Git and Link Converter plugins to automatically commit and push your vault changes to GitHub, creating a complete version history of your notes with proper link formatting for cross-platform compatibility.
+Keep changes in your `Obsidian` vault versioned on GitHub with automatic commits and proper link formatting for cross-platform markdown format compatibility.
 **Get started in 5 minutes --- just follow this guide!**
 
 ## 📋 Prerequisites & Setup
