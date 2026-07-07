@@ -1,16 +1,17 @@
 ⏱️ **Reading time: 5 minutes** | #obsidian #howtos #productivity
-# Obsidian Auto Version Control
+# Version Control Obsidian Vault
 
 ## 🎯 TL;DR
 Keep changes in your `Obsidian` vault versioned on GitHub with automatic commits and proper link formatting for cross-platform markdown format compatibility.
 **Get started in 5 minutes --- just follow this guide!**
 
 ## 📋 Prerequisites & Setup
- - [⭐️⭐️⭐️⭐️ Obsidian + Git Plugin](⭐️⭐️⭐️⭐️%20Obsidian%20+%20Git%20Plugin.md)
- - [⭐️⭐️⭐️ Obsidian + Link Converter Plugin](⭐️⭐️⭐️%20Obsidian%20+%20Link%20Converter%20Plugin.md)
+ - [⭐️⭐️⭐️⭐️ Obsidian + Git Plugin](⭐️⭐️⭐️⭐️%20Obsidian%20+%20Git%20Plugin.md) installed and enabled
+ - [⭐️⭐️⭐️ Obsidian + Link Converter Plugin](⭐️⭐️⭐️%20Obsidian%20+%20Link%20Converter%20Plugin.md) installed and enabled
 
 ## 🤔 The Problem
-Notes in your Obsidian vault are crucial knowledge assets, but they're often stored only locally. Without version control, you lose the ability to track changes, recover older versions, or maintain a backup in case of data loss. Additionally, Obsidian's native wiki-links may not render properly on GitHub, making your vault inaccessible or poorly formatted when shared externally.
+Notes in your Obsidian vault are crucial knowledge assets, but they're often stored only locally. Without version control, you lose the ability to track changes, recover older versions, or maintain a backup in case of data loss. 
+Additionally, Obsidian's native wiki-links may not render properly on GitHub, making your vault inaccessible or poorly formatted when shared externally.
 
 **Key questions or pain points:**
 - How do I maintain a complete history of changes to my notes?
@@ -26,29 +27,29 @@ This solution combines two powerful Obsidian plugins to create an automated vers
 3. **Converts links for compatibility** — The Link Converter plugin transforms internal wiki-links to markdown format, ensuring your vault displays correctly on GitHub and external tools
 
 ## 🚀 How to Set it Up
-### Step 1: Install and Configure the Obsidian Git Plugin
-1. Open Obsidian and go to **Settings → Community plugins**
-2. Search for and install the **Obsidian Git** plugin (by Denis Yalunin)
-3. Enable the plugin and configure in **Settings → Obsidian Git**:
-   - Set **Commit Author** to your name and email
-   - Enable **Auto pull** to fetch remote changes on startup
-   - Enable **Auto push** after commit (set interval, e.g., every 5 minutes)
-   - Set commit message format (e.g., "vault backup: {{date}}")
-4. Initialize your vault as a Git repository (use terminal: `git init` in your vault root)
-5. Add your GitHub remote: `git remote add origin https://github.com/yourusername/vault.git`
 
-### Step 2: Set Up Your GitHub Repository
-1. Create a new repository on GitHub (public or private, as you prefer)
-2. Push your initial vault commit: `git push -u origin main`
-3. Verify the remote connection is working with the Git plugin's push button in the command palette
+### Step 1: Install Obsidian Git Plugin
+1. **Settings → Community plugins** → Search for "Obsidian Git" → Install
+2. **Settings → Obsidian Git** and configure:
+   - **Commit Author**: Your name & email
+   - **Auto pull**: ✓ Enabled
+   - **Auto push**: ✓ Enabled (every 5 min)
+   - **Message format**: `vault backup: {{date}}`
 
-### Step 3: Install and Configure the Link Converter Plugin
-1. Go to **Settings → Community plugins** and search for **Link Converter**
-2. Install and enable the plugin
-3. Configure in **Settings → Link Converter**:
-   - Set conversion format to **Markdown** (to convert `[wiki-links](wiki-links)` → `[text](link)`)
-   - Enable **Auto-convert on file save** if you want automatic link conversion
-   - Alternatively, manually convert links using the command palette when needed
+### Step 2: Connect to GitHub
+Open terminal and run these commands in your vault folder:
+```bash
+git init
+git remote add origin https://github.com/yourusername/vault.git
+git push -u origin main
+```
+Then create a new repository on GitHub to match the remote URL above.
+
+### Step 3: Install Link Converter Plugin
+1. **Settings → Community plugins** → Search for "Link Converter" → Install
+2. **Settings → Link Converter** and configure:
+   - **Format**: Markdown
+   - **Auto-convert**: ✓ Enabled (or convert manually from command palette)
 
 ## 📊 The Impact
 With auto-sync enabled, your vault becomes a living, versioned knowledge base. You gain peace of mind knowing every change is tracked and backed up, can collaborate with others through GitHub, and maintain a professional, shareable vault. The combination of Git's powerful version control with proper link formatting ensures your second brain is both secure and accessible.
