@@ -11,7 +11,7 @@ Auto-generate insightful daily retros using AI — connect your daily actions to
 - Your **daily note files** in `[Date].md` format (see [Auto Daily Planner in Obsidian](Auto%20Daily%20Planner%20in%20Obsidian.md))
 
 ## 🤔 The Problem
-**Manual daily retrospectives are slow, shallow, and missing the bigger picture.**
+**Manual daily retrospectives might be slow, shallow, and missing the bigger picture.**
 
 You might log and retro your day → but have you asked:
 - Did I move toward my goals today?
