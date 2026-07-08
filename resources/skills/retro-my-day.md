@@ -1,6 +1,5 @@
 #obsidian #ai-skill 
-## Reference
-- [Auto Daily Retro in Obsidian](../../notes/Obsidian%20hacks/Features/Auto%20Daily%20Retro%20in%20Obsidian.md)
+This is a AI-powered skill template that enables automated daily retrospectives. You can combo it with Obsidian and Claudian, see more details in [Auto Daily Retro in Obsidian](../../notes/Obsidian%20hacks/Features/Auto%20Daily%20Retro%20in%20Obsidian.md). 
 
 ```markdown
 # Daily Retro Synthesizer
