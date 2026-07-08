@@ -38,7 +38,7 @@ You might log and retro your day → but have you asked:
 	- Context file: your **personal context file**
 	- Input folder: your **daily notes** directory
 	- Output folder: your **daily retros** directory
-	- Example: see [TODO - retro-my-day](../../Claude%20skills/TODO%20-%20retro-my-day.md)
+	- Example: see [retro-my-day](retro-my-day.md)
 
 ### Step 2: Run Your First Retro
 - Open a **Claudian window**
@@ -56,6 +56,6 @@ You might log and retro your day → but have you asked:
 | **Time saved per month** | — | 7+ hours |
 | **Insight depth** | Shallow | Deep patterns + alignment |
 ## 📚 Learn More
-- [TODO - retro-my-day](../../Claude%20skills/TODO%20-%20retro-my-day.md) — see the command example
+- [retro-my-day](retro-my-day.md) — see the command example
 - [Auto Daily Planner in Obsidian](Auto%20Daily%20Planner%20in%20Obsidian.md) — how to structure your daily notes
 

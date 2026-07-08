@@ -1,6 +1,0 @@
-#obsidian #ai-skill 
-
-
-
-
-
