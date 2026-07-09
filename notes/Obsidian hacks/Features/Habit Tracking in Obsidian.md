@@ -7,7 +7,7 @@ Visualise and manage all your habits in a Github-style heat-map --- track streak
 
 ![Screenshot 2026-07-06 at 21.16.36](../../../resources/screenshots/Screenshot%202026-07-06%20at%2021.16.36.png)
 ## 📋 Prerequisites & Setup
-- [⭐️⭐️⭐️ Obsidian + Habit Tracker 21](../Plugins/⭐️⭐️⭐️%20Obsidian%20+%20Habit%20Tracker%2021.md) installed and enabled
+- [⭐️⭐️⭐️⭐️ Obsidian + Habit Tracker 21](⭐️⭐️⭐️⭐️%20Obsidian%20+%20Habit%20Tracker%2021.md) installed and enabled
 - A dedicated habits folder (required for configuration)
 
 ## 🤔 The Problem

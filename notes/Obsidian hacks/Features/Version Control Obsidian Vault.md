@@ -6,8 +6,8 @@ Keep changes in your `Obsidian` vault versioned on GitHub with automatic commits
 **Get started in 5 minutes --- just follow this guide!**
 
 ## 📋 Prerequisites & Setup
- - [⭐️⭐️⭐️⭐️ Obsidian + Git Plugin](⭐️⭐️⭐️⭐️%20Obsidian%20+%20Git%20Plugin.md) installed and enabled
- - [⭐️⭐️⭐️ Obsidian + Link Converter Plugin](⭐️⭐️⭐️%20Obsidian%20+%20Link%20Converter%20Plugin.md) installed and enabled
+ - [⭐️⭐️⭐️⭐️⭐️ Obsidian + Git Plugin](⭐️⭐️⭐️⭐️⭐️%20Obsidian%20+%20Git%20Plugin.md) installed and enabled
+ - [⭐️⭐️⭐️⭐️⭐️ Obsidian + Link Converter Plugin](⭐️⭐️⭐️⭐️⭐️%20Obsidian%20+%20Link%20Converter%20Plugin.md) installed and enabled
 
 ## 🤔 The Problem
 Notes in your Obsidian vault are crucial knowledge assets, but they're often stored only locally. Without version control, you lose the ability to track changes, recover older versions, or maintain a backup in case of data loss. 
@@ -63,8 +63,8 @@ With auto-sync enabled, your vault becomes a living, versioned knowledge base. Y
 | Collaboration Capability | Not possible | Enabled via Git branches |
 
 ## 📚 Learn More
-- [⭐️⭐️⭐️⭐️ Obsidian + Git Plugin](⭐️⭐️⭐️⭐️%20Obsidian%20+%20Git%20Plugin.md) — Full documentation on configuring the Git plugin for your vault
-- [⭐️⭐️⭐️ Obsidian + Link Converter Plugin](⭐️⭐️⭐️%20Obsidian%20+%20Link%20Converter%20Plugin.md) — Details on link formatting and compatibility options
+- [⭐️⭐️⭐️⭐️⭐️ Obsidian + Git Plugin](⭐️⭐️⭐️⭐️⭐️%20Obsidian%20+%20Git%20Plugin.md) — Full documentation on configuring the Git plugin for your vault
+- [⭐️⭐️⭐️⭐️⭐️ Obsidian + Link Converter Plugin](⭐️⭐️⭐️⭐️⭐️%20Obsidian%20+%20Link%20Converter%20Plugin.md) — Details on link formatting and compatibility options
 - [Obsidian Git Plugin GitHub](https://github.com/denolehov/obsidian-git) — Official repository with advanced configuration options
 - [Link Converter Plugin GitHub](https://github.com/ozntel/obsidian-link-converter) — Source code and feature documentation
 - [GitHub Markdown Guide](https://guides.github.com/features/mastering-markdown/) — Best practices for displaying Markdown on GitHub
