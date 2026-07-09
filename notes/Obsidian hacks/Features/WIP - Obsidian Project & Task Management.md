@@ -2,15 +2,13 @@
 # Obsidian Project & Task Management
 
 ## 🎯 TL;DR
-[One-sentence summary of what this accomplishes and the core benefit]
+
 
 ## 📋 Prerequisites & Setup
-- [Prerequisite 1]
-- [Prerequisite 2]
-- [Prerequisite 3]
+- [[⭐️⭐️⭐️⭐️⭐️ Obsidian + TaskNotes Plugin]] installed and enabled
 
 ## 🤔 The Problem
-[Describe the challenge or pain point this solves]
+I used to use Notion and obsessed with its DB and view functionalities --- I can plan my tasks in DBs and visualise them in calendar view, or table view, or timeline view or 
 
 **Key questions or pain points:**
 - [Issue 1]
