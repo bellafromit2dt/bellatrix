@@ -66,6 +66,3 @@ When you create a note from this template:
 - ✅ You're prompted to enter a summary
 - ✅ Everything else stays as-is
 
----
-
-**Ready to dive deeper?** Continue reading for advanced techniques, real-world templates, and best practices. 
