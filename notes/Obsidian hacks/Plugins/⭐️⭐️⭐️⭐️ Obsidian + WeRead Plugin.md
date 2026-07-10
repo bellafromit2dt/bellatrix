@@ -97,16 +97,16 @@ Clear explains how tiny changes compound into remarkable results...
 
 ## Real-World Use Cases
 
-✅ **Research Library** — Store highlights from business, science, and philosophy books
-✅ **Learning Path** — Organize reads by topic with your course notes
-✅ **Quote Collection** — Build a personal collection of inspiring passages
-✅ **Book Review Writing** — Have all highlights ready for detailed reviews
-✅ **Project Research** — Link book insights to active projects
-✅ **Writing Source Bank** — Use highlights as references and inspiration
-✅ **Reading Challenge** — Track books read and maintain reading stats
-✅ **Knowledge Synthesis** — Connect ideas across multiple books
-✅ **Study Material** — Organize textbook highlights by chapter and topic
-✅ **Personal Development** — Review self-help insights regularly
+- ✅ **Research Library** — Store highlights from business, science, and philosophy books
+- ✅ **Learning Path** — Organize reads by topic with your course notes
+- ✅ **Quote Collection** — Build a personal collection of inspiring passages
+- ✅ **Book Review Writing** — Have all highlights ready for detailed reviews
+- ✅ **Project Research** — Link book insights to active projects
+- ✅ **Writing Source Bank** — Use highlights as references and inspiration
+- ✅ **Reading Challenge** — Track books read and maintain reading stats
+- ✅ **Knowledge Synthesis** — Connect ideas across multiple books
+- ✅ **Study Material** — Organize textbook highlights by chapter and topic
+- ✅ **Personal Development** — Review self-help insights regularly
 
 ---
 
