@@ -100,14 +100,14 @@
 
 ## Real-World Use Cases
 
-✅ **Daily Planning** — Morning review of what's on your plate
-✅ **Project Management** — Track tasks within project notes
-✅ **Meeting Notes** — Capture action items while taking notes
-✅ **Learning Path** — Track exercises and assignments alongside study notes
-✅ **Research** — Manage research tasks and literature review items
-✅ **Team Collaboration** — Assign and track shared tasks in your vault
-✅ **Personal Development** — Track habits and goals alongside reflections
-✅ **Writing Projects** — Manage editing tasks and publication milestones
+- ✅ **Daily Planning** — Morning review of what's on your plate
+- ✅ **Project Management** — Track tasks within project notes
+- ✅ **Meeting Notes** — Capture action items while taking notes
+- ✅ **Learning Path** — Track exercises and assignments alongside study notes
+- ✅ **Research** — Manage research tasks and literature review items
+- ✅ **Team Collaboration** — Assign and track shared tasks in your vault
+- ✅ **Personal Development** — Track habits and goals alongside reflections
+- ✅ **Writing Projects** — Manage editing tasks and publication milestones
 
 ---
 
@@ -125,11 +125,11 @@
 
 ## Pro Tips
 
-💡 **Use tags for categories** — `#work`, `#personal`, `#urgent`
-💡 **Link related notes** — `[[project-name]]` to connect tasks to notes
-💡 **Set due dates consistently** — Makes filtering by deadline easy
-💡 **Use priorities** — Helps you focus on what matters most
-💡 **Review regularly** — Weekly review of completed tasks keeps you motivated
+- 💡 **Use tags for categories** — `#work`, `#personal`, `#urgent`
+- 💡 **Link related notes** — `[[project-name]]` to connect tasks to notes
+- 💡 **Set due dates consistently** — Makes filtering by deadline easy
+- 💡 **Use priorities** — Helps you focus on what matters most
+- 💡 **Review regularly** — Weekly review of completed tasks keeps you motivated
 
 ---
 
