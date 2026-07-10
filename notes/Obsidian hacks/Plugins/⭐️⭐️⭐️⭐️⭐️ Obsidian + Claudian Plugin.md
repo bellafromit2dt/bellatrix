@@ -98,16 +98,16 @@ Claude identifies patterns and key concepts
 
 ## Real-World Use Cases
 
-✅ **Writing Blog Posts** — Brainstorm, draft, and refine all in Obsidian
-✅ **Research Papers** — Summarize sources, synthesize ideas, improve clarity
-✅ **Meeting Notes** — Instantly summarize and extract action items
-✅ **Email Drafting** — Write professional emails without leaving your vault
-✅ **Code Snippets** — Get help explaining or improving code blocks
-✅ **Study Material** — Create outlines and summaries for learning
-✅ **Creative Writing** — Overcome blocks and explore narrative angles
-✅ **Project Planning** — Brainstorm scope, timelines, and deliverables
-✅ **Knowledge Synthesis** — Connect ideas across multiple notes
-✅ **Language Learning** — Translate and practice foreign languages
+- ✅ **Writing Blog Posts** — Brainstorm, draft, and refine all in Obsidian
+- ✅ **Research Papers** — Summarize sources, synthesize ideas, improve clarity
+- ✅ **Meeting Notes** — Instantly summarize and extract action items
+- ✅ **Email Drafting** — Write professional emails without leaving your vault
+- ✅ **Code Snippets** — Get help explaining or improving code blocks
+- ✅ **Study Material** — Create outlines and summaries for learning
+- ✅ **Creative Writing** — Overcome blocks and explore narrative angles
+- ✅ **Project Planning** — Brainstorm scope, timelines, and deliverables
+- ✅ **Knowledge Synthesis** — Connect ideas across multiple notes
+- ✅ **Language Learning** — Translate and practice foreign languages
 
 ---
 
@@ -178,13 +178,13 @@ Users seem frustrated. Maybe faster or simpler?
 
 ## Best Practices
 
-✅ **Start with simple prompts** — Let Claude handle 80/20 tasks first
-✅ **Customize commands** — Build prompts for your specific needs
-✅ **Review before accepting** — AI is a tool, not ground truth
-✅ **Combine with your thinking** — Best results: you + AI together
-✅ **Use for ideation** — Brainstorming is where AI shines
-✅ **Document your workflows** — Save winning prompt combinations
-✅ **Keep learning** — Understand AI strengths and limitations
+- ✅ **Start with simple prompts** — Let Claude handle 80/20 tasks first
+- ✅ **Customize commands** — Build prompts for your specific needs
+- ✅ **Review before accepting** — AI is a tool, not ground truth
+- ✅ **Combine with your thinking** — Best results: you + AI together
+- ✅ **Use for ideation** — Brainstorming is where AI shines
+- ✅ **Document your workflows** — Save winning prompt combinations
+- ✅ **Keep learning** — Understand AI strengths and limitations
 
 ---
 
