@@ -1,5 +1,5 @@
 ⏱️ **Reading time: X minutes** | #obsidian #howtos #productivity
-# Obsidian Project & Task Management
+# Project & Task Management in Obsidian
 
 ## 🎯 TL;DR
 
