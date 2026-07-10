@@ -126,7 +126,7 @@
 ## Pro Tips
 
 - 💡 **Use tags for categories** — `#work`, `#personal`, `#urgent`
-- 💡 **Link related notes** — `[[project-name]]` to connect tasks to notes
+- 💡 **Link related notes** — `[project-name](project-name)` to connect tasks to notes
 - 💡 **Set due dates consistently** — Makes filtering by deadline easy
 - 💡 **Use priorities** — Helps you focus on what matters most
 - 💡 **Review regularly** — Weekly review of completed tasks keeps you motivated

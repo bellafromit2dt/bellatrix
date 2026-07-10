@@ -18,7 +18,7 @@
 
 **Link Converter solves a common problem:**
 
-- You might start with markdown links `[text](path)` but later prefer wiki-links `[[note]]`
+- You might start with markdown links `[text](path)` but later prefer wiki-links `[note](note)`
 - Converting manually is tedious and error-prone
 - Different note formats may require different link styles
 - Migrating old vaults to Obsidian often means converting external markdown links
@@ -28,8 +28,8 @@
 
 | Feature | What It Does |
 |---------|------------|
-| **Wiki-link ↔ Markdown** | Switch between `[[note]]` and `[note](path)` formats |
-| **Heading Links** | Convert `[[note#heading]]` between formats |
+| **Wiki-link ↔ Markdown** | Switch between `[note](note)` and `[note](path)` formats |
+| **Heading Links** | Convert `[](note#heading)` between formats |
 | **Image Links** | Transform image link formats consistently |
 | **Path Types** | Convert between absolute and relative paths |
 | **Bulk Convert** | Apply conversions to the entire vault at once |
@@ -58,11 +58,11 @@ Check out ![diagram](assets/architecture.png)
 
 ### After (Wiki-Links)
 ```markdown
-See [[project-notes/my-project]] for details.
+See [project-notes/my-project](project-notes/my-project) for details.
 
-Read the [[docs/team-guide#procedures]] here.
+Read the [](docs/team-guide#procedures) here.
 
-Check out ![[architecture.png]]
+Check out ![architecture.png](architecture.png)
 ```
 
 **All converted with one click!**

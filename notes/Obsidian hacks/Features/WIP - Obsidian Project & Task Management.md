@@ -5,7 +5,7 @@
 
 
 ## 📋 Prerequisites & Setup
-- [[⭐️⭐️⭐️⭐️⭐️ Obsidian + TaskNotes Plugin]] installed and enabled
+- [⭐️⭐️⭐️⭐️⭐️ Obsidian + TaskNotes Plugin](../Plugins/⭐️⭐️⭐️⭐️⭐️%20Obsidian%20+%20TaskNotes%20Plugin.md) installed and enabled
 
 ## 🤔 The Problem
 I used to use Notion and obsessed with its DB and view functionalities --- I can plan my tasks in DBs and visualise them in calendar view, or table view, or timeline view or 

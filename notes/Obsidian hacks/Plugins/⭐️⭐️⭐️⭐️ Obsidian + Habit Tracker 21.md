@@ -83,7 +83,7 @@
 - Habit: Read for 30 minutes
 - Target: Daily
 - Current Streak: 5 days
-- Linked: [[reading-goals]]
+- Linked: [reading-goals](reading-goals)
 
 [Habit Tracker showing calendar grid]
 ```
@@ -113,8 +113,8 @@
 📚 Reading - 30 min daily (knowledge)
 🧘 Meditation - 10 min daily (mindfulness)
 
-Tracked in: [[daily-habits]]
-Connected to: [[fitness-goals]], [[learning-path]]
+Tracked in: [daily-habits](daily-habits)
+Connected to: [fitness-goals](fitness-goals), [learning-path](learning-path)
 ```
 
 **Week 2-3: Momentum**

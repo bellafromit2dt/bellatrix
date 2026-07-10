@@ -84,13 +84,13 @@ Clear explains how tiny changes compound into remarkable results...
 
 ## My Notes
 - The identity-based approach resonates with my goal-setting philosophy
-- Consider implementing the 2-minute rule for new habits [[habit-tracking]]
+- Consider implementing the 2-minute rule for new habits [habit-tracking](habit-tracking)
 - Template idea: Use this for building writing habits
 
 ## Connected Ideas
-- [[goal-setting]] - Identity shapes outcomes
-- [[behavior-change]] - Tiny habits compound
-- [[productivity]] - Systems > goals
+- [goal-setting](goal-setting) - Identity shapes outcomes
+- [behavior-change](behavior-change) - Tiny habits compound
+- [productivity](productivity) - Systems > goals
 ```
 
 ---
@@ -129,7 +129,7 @@ Clear explains how tiny changes compound into remarkable results...
 **Step 3: Connect and synthesize**
 ```
 📚 Review the new highlights in Obsidian
-🔗 Link to related projects: [[focus-time-strategy]]
+🔗 Link to related projects: [focus-time-strategy](focus-time-strategy)
 💡 Add your own insights and applications
 📊 Query all highlights about a topic with Dataview
 ```

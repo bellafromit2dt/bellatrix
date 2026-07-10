@@ -98,7 +98,7 @@ Great progress on project. Client confidence high.
 Need to focus on execution next week.
 
 ## 📚 Learning
-- Read article on design systems [[design-systems]]
+- Read article on design systems [design-systems](design-systems)
 - Listened to podcast on team dynamics
 - Reviewed competitor's latest feature
 
@@ -122,9 +122,9 @@ What could improve?
 - Could've started earlier
 
 ## 🔗 Connected Notes
-- [[Project Alpha]] - design work progress
-- [[Client XYZ]] - update on project status
-- [[Team standup 2026-07-10]] - meeting notes
+- [Project Alpha](Project%20Alpha) - design work progress
+- [Client XYZ](Client%20XYZ) - update on project status
+- [Team standup 2026-07-10](Team%20standup%202026-07-10) - meeting notes
 
 ## 📊 Tomorrow's Preview
 - Follow up on client feedback

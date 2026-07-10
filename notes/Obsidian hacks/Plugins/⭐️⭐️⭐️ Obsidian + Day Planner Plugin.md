@@ -77,7 +77,7 @@
 ## 8:00 AM - 10:00 AM
 **Deep Work - Project Alpha**
 - Focus on design mockups
-- Pair with [[Project Alpha Notes]]
+- Pair with [Project Alpha Notes](Project%20Alpha%20Notes)
 #work #focus
 
 ## 10:00 AM - 10:15 AM
@@ -89,14 +89,14 @@
 **Team Meeting**
 - Weekly standup
 - Discussion items
-- [[Team Meeting 2026-07-10]]
+- [Team Meeting 2026-07-10](Team%20Meeting%202026-07-10)
 #meeting
 
 ## 11:30 AM - 12:30 PM
 **Code Review**
 - Review PR #234
 - Feedback and merge
-- Link to [[Code Review Queue]]
+- Link to [Code Review Queue](Code%20Review%20Queue)
 #work #code
 
 ## 12:30 PM - 1:30 PM
