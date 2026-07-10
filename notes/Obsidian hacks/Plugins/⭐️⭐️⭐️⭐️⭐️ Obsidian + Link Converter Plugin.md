@@ -71,11 +71,11 @@ Check out ![[architecture.png]]
 
 ## Use Cases
 
-✅ **Migrating to Obsidian** — Convert old markdown-style links to native wiki-links
-✅ **Standardizing Your Vault** — Enforce one link format across all notes
-✅ **Switching Preferences** — Change your mind about which format you like
-✅ **Team Collaboration** — Align link formats with your vault's style guide
-✅ **Exporting Notes** — Convert to markdown links before publishing
+ - ✅ **Migrating to Obsidian** — Convert old markdown-style links to native wiki-links
+- ✅ **Standardizing Your Vault** — Enforce one link format across all notes
+- ✅ **Switching Preferences** — Change your mind about which format you like
+- ✅ **Team Collaboration** — Align link formats with your vault's style guide
+- ✅ **Exporting Notes** — Convert to markdown links before publishing
 
 ---
 
